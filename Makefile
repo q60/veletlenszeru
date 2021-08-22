@@ -1,5 +1,5 @@
 NAME = veletlenszeru
-VER = 0.1.0
+VER = 0.1.1
 TARGET = target/uberjar/$(NAME)-$(VER)-standalone.jar
 
 JAVA := $(shell which java)
